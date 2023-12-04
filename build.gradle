@@ -42,7 +42,7 @@ dependencies {
     api 'org.springframework.security:spring-security-config:4.0.3.RELEASE'
     api 'org.springframework.security:spring-security-web:4.0.3.RELEASE'
     api 'javax.xml.bind:jaxb-api:2.3.0'
-    api 'com.sun.xml.bind:jaxb-core:2.3.0'
+    api 'com.sun.xml.bind:jaxb-core:4.0.4'
     api 'com.sun.xml.bind:jaxb-impl:2.3.0'
     api 'javax.activation:activation:1.1.1'
     runtimeOnly 'org.slf4j:slf4j-log4j12:1.7.13'
